@@ -26,4 +26,4 @@ The hardware required for proper operation are: a processor type Intel Pentium o
 
 Compilation
 
-To compile the source folder Converter (education applies to both windows for linux): Enter the src folder via terminal and run: "javac -encoding UTF-8 -d ../bin Convertitore.java". After the compilation is over, always go through the terminal in the "bin" and from there run the command to start the program "java Converter"
+To compile the source folder Converter (education applies to both windows for linux): Enter the src folder via terminal and run: "javac -encoding UTF-8 -d  Convertitore.java". After the compilation is over, run the command to start the program "java Converter"
