@@ -1,0 +1,26 @@
+Presentation of the program:
+The window has a toolbar with various options:
+-Esercitazione: Offers the possibility of practicing with different exercises, for more information read the section;
+-Help: It allows for any clarification on the operation of the program;
+-Crediti: Presentation of the team;
+
+
+Button functions, inputbox and textbox:
+
+In the text box labeled "enter", you must enter a single digit number distancing by a space.
+In the text box called "initial base", you must enter the base with which it was represented the number to be converted (WARNING include more of any digit of the number of
+convert).
+In the text box called "base end", you must enter the base to which you want convetire number.
+Clicking on "send" will be the way to conversion.
+Clicking on "forward" it is possible to see step by step operations to arrive
+the end result.
+
+Exercise
+
+The window of exercise by the possibility to choose the difficulty:
+Easy: it generates simple exercises conduct;
+Middle: generates exercises of medium difficulty;
+Difficult: it generates exercises for more experienced users.
+There are also two buttons "help" and "tip", the first to help inserting a figure,
+the second opens a window with a brief explanation of how you have to do the conversion.
+The button "send" controls whether the conversion was done in the right way or wrong, either way will open a pop-up with the judgment (WRONG, EXACT).
