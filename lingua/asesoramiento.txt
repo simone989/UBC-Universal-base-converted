@@ -1,0 +1,7 @@
+Paso 1 Convert, si es necesario, el número en base 10.
+result = a1 + a2 * 10 ^ n * 10 ^ (n-1) + a3 * 10 ^ (n-2) + ... + a (n-1) * 10 ^ (N- (n-1)) + n * 10 ^ (n)
+Paso 2: Ahora divida el resultado entre la base final,
+el resto de la división será el primer dígito (el menos significativo).
+continúa dividiendo el resultado de la división para el extremo de base,
+el resto será "el segundo dígito menos significativo.
+continuó así hasta que encuentre el resultado final.

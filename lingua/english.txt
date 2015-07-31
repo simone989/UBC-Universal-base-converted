@@ -1,0 +1,29 @@
+Enter
+Home base
+Final base
+Sending
+Result
+Simulator
+Forward
+Conversion to base ten
+Conversion
+Final results
+Error! Inside a text box are invalid characters
+Error! A figure to be converted is greater than the initial base
+Exercise
+Help
+Credits
+Choose difficulty
+Easy
+Medium
+Hard
+Number to convert
+Advice
+Reset
+Insert the result
+Advice to complete
+Correct result
+Incorrect result
+Open exercise
+Open help
+Open credits

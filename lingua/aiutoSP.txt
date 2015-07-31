@@ -1,0 +1,35 @@
+GUÍA DEL USUARIO
+
+Presentación del programa:
+La ventana tiene una barra de herramientas con varias opciones:
+-Esercitazione: Ofrece la posibilidad de practicar con diferentes ejercicios, 
+ para más información lea la sección;
+-Ayuda: Permite que para cualquier aclaración 
+ sobre el funcionamiento del programa;
+-Crediti: Presentación del equipo;
+
+Funciones de los botones, caja de texto y cuadro de texto:
+En el cuadro de texto llamado "enter", 
+debe introducir un único número de dígitos distanciarse por un espacio.
+En el cuadro de texto llamado "base inicial", 
+debe introducir la base con la que estuvo representado el número que desea convertir 
+(ADVERTENCIA incluye más de cualquier dígito del número de convertir).
+En el cuadro de texto llamado "extremo de la base", 
+debe introducir la base a la que desea número convetire.
+Al hacer clic en "enviar" va a ser el camino a la conversión.
+Al hacer clic en "adelante" se puede ver paso a paso 
+las operaciones para obtener el resultado final.
+
+Ejercicio
+La ventana de ejercicio por la posibilidad de elegir la dificultad:
+Fácil: genera ejercicios simples conducta;
+Secundaria: genera ejercicios de dificultad media;
+Difícil: genera ejercicios para los usuarios más experimentados.
+
+También hay dos botones de "ayuda" y "de punta", 
+los primeros en ayudar mediante la introducción de un dígito, 
+el segundo se abre una ventana con una breve explicación 
+de cómo se tiene que hacer la conversión.
+El botón de "enviar" controla si la conversión se hizo en 
+el camino correcto o no, de cualquier manera se abrirá una ventana 
+emergente con el juicio (EQUIVOCADO, EXACTA).

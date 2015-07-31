@@ -1,0 +1,29 @@
+ Entrar
+Base de orígen
+Base de final
+Envío
+Resultado
+Simulador
+Adelante
+Conversión
+Conversión de base diez
+Los resultados finales
+Error! Dentro de un cuadro de texto son caracteres no válidos
+Error! Una figura para ser convertido es mayor que la base inicial
+Ejercicio
+Ayudar
+Créditos
+Elija dificultad
+Fácil
+Medio
+Duro
+Número de convertir
+Asesoramiento
+Reajustar
+Introducir Resultado
+Consejos para completar
+Resultado correcto
+Resultado erróneo
+Abridor
+Abrir ayuda
+Créditos abiertos

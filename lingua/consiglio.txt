@@ -1,0 +1,7 @@
+Step 1  Converti, se Ë necessario, il numero dato in base 10.
+risultato=a1*10^n + a2*10^(n-1) + a3*10^(n-2)+...+a(n-1)*10^(n-(n-1)) +an*10^(n-n).
+Step 2 : Adesso dividi il risultato per la base finale,
+il resto della divisione sar√† la prima cifra(meno significativa).
+continua dividendo il risultato della divisione per la base finale,
+il resto sara'† la seconda cifra meno significativa.
+continua cosi fino a trovare il risultato finale.

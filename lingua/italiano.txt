@@ -1,0 +1,29 @@
+Inserisci
+Base Iniziale
+Base Finale
+Invio
+Risultato
+Simulatore
+Avanti
+Conversione base dieci
+Conversione
+Risultato Finale
+Errore! Dentro una casella di testo sono presenti caratteri non validi
+Errore! Una cifra da convertire è maggiore della base iniziale
+Esercitazione
+Aiuto
+Crediti
+Scegli difficolta'
+Facile
+Medio
+Difficile
+Nuomero da convertire
+Consiglio
+Reset
+Inserisci il risultato
+Consiglio//////////////////////////////////////
+Risultato Corretto
+Risultato Errato
+Apri Esercitazione
+Apri Aiuto
+Apri Crediti

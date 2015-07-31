@@ -1,0 +1,35 @@
+GUIDA UTENTE 
+
+Presentazione del programma:
+La finestra presenta una barra degli strumenti con varie opzioni:
+-Esercitazione: offre la possibilita' di esercitarsi 
+ con diversi esercizi, per piu' info leggere la sezione dedicata;
+-Aiuto: permette di avere eventuali chiarimenti sul 
+ funzionamento del programma;
+-Crediti: Presentazione del team;
+
+Funzioni dei pulsanti, inputbox e textbox:
+Nella casella di testo denominata "inserisci", 
+bisogna inserire un numero distanziando ogni singola cifra da uno spazio.
+Nella casella di testo denominata "base iniziale", 
+bisogna inserire la base con cui e' stato rappresentato 
+il numero da convertire (ATTENZIONE inserire un numero 
+maggiore di qualunque cifra del numero da convertire).
+Nella casella di testo denominata "base finale", 
+bisogna inserire la base alla quale si vuole convetire il numero.
+Cliccando sul bottone "invio" si da il via alla conversione.
+Cliccando sul bottone "avanti" c'e' la possibilita' di 
+vedere passo dopo passo le operazioni per arrivare al risultato finale.
+
+Esercitazione
+La finestra di esercitazione da la possibilita' di scegliere la difficolta':
+Facile: genera esercizi di semplice svolgimento;
+Medio: genera esercizi di media difficolta';
+Difficile: genera esercizi per utenti piu' esperti.
+
+Inoltre sono presenti due bottoni "aiuto" e "suggerimento", 
+il primo da un aiuto inserendo una cifra, il secondo apre una finestra 
+con una breve spiegazione di come bisogna fare la conversione.
+Il bottone "invio" controlla se la conversione 
+e' stata fatta in modo giusto o errato, 
+in entrambi i casi si aprira' un pop-up con il giudizio(ERRATO, ESATTO). 
